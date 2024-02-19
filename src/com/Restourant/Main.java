@@ -18,12 +18,6 @@ public class Main {
                 "    \\_/\\_/ \\___|_|\\___\\___/|_| |_| |_|\\___|   |_|\\___/  |_____|_| |_| |_|_| |_| |_|\\___|_| |_|\\__\\__,_|_|\n" +
                 "                                                                                                         \n");
         System.out.println(RESET);
-
-
-        //String name = console.nextLine();
-        //System.out.println(name);
-        //System.out.println();
-        //Dishes.PrintMenu();
-
+        Menu.OpenMenu();
     }
 }
